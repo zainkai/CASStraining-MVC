@@ -108,3 +108,7 @@ C:\Users\turkingk\Documents\Visual Studio 2013\Projects\CASStraining-MVC\MvcMovi
 C:\Users\turkingk\Documents\Visual Studio 2013\Projects\CASStraining-MVC\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
 C:\Users\turkingk\Documents\Visual Studio 2013\Projects\CASStraining-MVC\MvcMovie\obj\Debug\MvcMovie.dll
 C:\Users\turkingk\Documents\Visual Studio 2013\Projects\CASStraining-MVC\MvcMovie\obj\Debug\MvcMovie.pdb
+C:\Users\turkingk\Documents\Visual Studio 2013\Projects\CASStraining-MVC\MvcMovie\obj\Debug\MvcMovie.Migrations.InitialCreate.resources
+C:\Users\turkingk\Documents\Visual Studio 2013\Projects\CASStraining-MVC\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
+C:\Users\turkingk\Documents\Visual Studio 2013\Projects\CASStraining-MVC\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
+C:\Users\turkingk\Documents\Visual Studio 2013\Projects\CASStraining-MVC\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
